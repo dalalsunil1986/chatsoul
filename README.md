@@ -4,7 +4,7 @@ Chatsoul
 A chat application powered by <b>Websync Comet Server</b> and MYSQL where users can create instant chatrooms without creating an account. See the project in action at http://chatsoul.com.
 
 
-<b>Things to remember before going live</b>:
+Things to remember before going live:
 
 1. Secure a MYSQL database username and password.
 
