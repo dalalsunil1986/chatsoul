@@ -10,7 +10,7 @@ Things to remember before going live:
 
 2. Create a folder and name it "configs" inside the root of the application.
 
-3. Make sure the following folders exist on the root of the application and have proper read/write(775) permissions:
+3. Make sure the following folders exist on the root of the application and have proper read/write(775) permissions:<br />
    a.invite<br />
    b.configs<br />
    c.temporaryfiles<br />
