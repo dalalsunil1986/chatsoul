@@ -13,7 +13,7 @@
    $PASSWORD=$configs['db_password'];     
    $DATABASE=$configs['db_database'];   
    $ISCOMET = configwriter::boolstr($configs['is_comet']);
-   $COMETKEY=$configs['comet_key'];//"4aa31753-db14-4afc-9df0-47cd7395601b"; 
+   $COMETKEY=$configs['comet_key']; 
    $FROMNAME=$configs['admin_name'];
    $FROMADDRESS=$configs['admin_email'];
    $SMTPAUTH=configwriter::boolstr($configs['smtp_auth']);
