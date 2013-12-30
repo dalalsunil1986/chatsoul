@@ -31,6 +31,13 @@ if (isset($_SESSION['username']) && isset($_SESSION['pin']))
 		</script>
 	</head>
 	<body>
+	<!--Github Ribbon-->
+	<div class="github-fork-ribbon-wrapper left-bottom">
+	 <div class="github-fork-ribbon">
+	    <a href="https://github.com/hunyoboy/chatsoul">Fork me on GitHub</a>
+	 </div>
+	</div>
+	<!--Github Ribbon-->
 	<div id="contentWrapper">
 		<span style="float:right">
 		 <a href="<?php echo $urlmanager->createUrl('/about'); ?>" >About</a> |
