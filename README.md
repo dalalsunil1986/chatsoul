@@ -1,7 +1,7 @@
 Chatsoul
 ========
 
-A chat application powered by <b>Websync Comet Server</b> and MYSQL where users can create instant chatrooms without creating an account. See the project in action at http://chatsoul.com.
+A chat application powered by <b>Websync Comet Server</b> and MYSQL where users can create instant chatrooms without creating an account. 
 
 
 Before going live:
